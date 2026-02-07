@@ -8,8 +8,11 @@
   <p>Deploy your personal sites, portfolios, and open-source projects for free. Compare usage limits, platform features, and subdomain formats for Vercel, Netlify, Cloudflare, and 20+ others.</p>
   <hr />
   <br />
-  <a href="https://ghostshanky.github.io/free-subdomains">🌐 Visit Website</a>
-  <br />
+  <a href="https://ghostshanky.github.io/free-subdomains" >                                  
+  <img src="https://api.screenshotone.com/take?access_key=ri64lH5j8yEEfg&url=https%3A%2F%2Fghostshanky.github.io%2Ffree-subdomains%2F&format=jpg&block_ads=true&block_cookie_banners=true&block_banners_by_heuristics=false&block_trackers=true&delay=0&timeout=60&response_type=by_format&image_quality=80" alt="Website Preview">
+ 🌐 View Website 
+</a>
+<br />
   <br />
 </div>
 
