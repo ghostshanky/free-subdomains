@@ -78,7 +78,6 @@
 | Platform | Subdomain Format | Notes |
 | :--- | :--- | :--- |
 | [**InfinityFree**](https://www.infinityfree.net) | `name.rf.gd` | Unstable. PHP support. |
-| [**InfinityFree**](https://www.infinityfree.net) | `name.rf.gd` | Unstable. PHP support. |
 | [**AwardSpace**](https://www.awardspace.com) | `site.awardspace.net` | Ad-free free tier. |
 | [**ByetHost**](https://byet.host) | `site.byethost.com` | Reseller giant. |
 | [**X10Hosting**](https://x10hosting.com) | `site.x10.mx` | Long standing. |
