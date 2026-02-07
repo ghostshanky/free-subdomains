@@ -79,6 +79,7 @@
 | [**AwardSpace**](https://www.awardspace.com) | `site.awardspace.net` | Ad-free free tier. |
 | [**ByetHost**](https://byet.host) | `site.byethost.com` | Reseller giant. |
 | [**X10Hosting**](https://x10hosting.com) | `site.x10.mx` | Long standing. |
+| [**ProFreeHost**](https://profreehost.com) | `unaux.com`, `liveblog365.com` | 5GB Disk, Unlimited BW. |
 
 ---
 
