@@ -52,6 +52,7 @@
 | Domain | Example | Status | How to Claim |
 | :--- | :--- | :--- | :--- |
 | [**is-a.dev**](https://is-a.dev) | `name.is-a.dev` | ✅ Active | [Repo](https://github.com/is-a-dev/register) - Add JSON file. |
+| [**ing.ng**](https://ing.ng) | `name.ing.ng` | ✅ Active | Web, API, or CLI (`npx ingng`); supports A/AAAA/CNAME/MX/TXT/NS/SRV, ENS + browser resolution, and no renewal fees. |
 | [**js.org**](https://js.org) | `lib.js.org` | ✅ Strict | [Repo](https://github.com/js-org/js.org) - JS projects only. |
 | [**is-a.co**](https://is-a.co) | `name.is-a.co` | ✅ Active | [Repo](https://github.com/is-a-co/register) |
 | [**js.cool**](https://js.cool) | `name.js.cool` | ✅ Active | [Repo](https://github.com/remix-run/react-router) (Concept similar) |
